@@ -1,0 +1,16 @@
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.csproj.AssemblyReference.cache
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.AssemblyInfoInputs.cache
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.AssemblyInfo.cs
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.csproj.CoreCompileInputs.cache
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\SR-ARP.exe
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\SR-ARP.deps.json
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\SR-ARP.runtimeconfig.json
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\SR-ARP.runtimeconfig.dev.json
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\SR-ARP.dll
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\ref\SR-ARP.dll
+C:\Users\sloui\source\repos\SR-ARP\bin\Debug\net5.0\SR-ARP.pdb
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.dll
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\ref\SR-ARP.dll
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.pdb
+C:\Users\sloui\source\repos\SR-ARP\obj\Debug\net5.0\SR-ARP.genruntimeconfig.cache

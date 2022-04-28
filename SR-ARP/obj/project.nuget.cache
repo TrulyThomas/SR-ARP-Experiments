@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqb62tJcigoNAEX7h3gQephlqYzyxOPf3IWmxa/OP8QIkiOoG3b/AS2TUOBv+c6bOkdMAPyTaXsDx3OQGBeorg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sloui\\source\\repos\\SR-ARP\\SR-ARP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sloui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

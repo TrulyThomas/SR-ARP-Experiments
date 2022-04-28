@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR-ARP", "SR-ARP.csproj", "{5D5989C1-7771-486E-A801-EB1F8D961488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5989C1-7771-486E-A801-EB1F8D961488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5989C1-7771-486E-A801-EB1F8D961488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5989C1-7771-486E-A801-EB1F8D961488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5989C1-7771-486E-A801-EB1F8D961488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0370D5AF-0D8B-47D7-AECF-9FAC1607280A}
+	EndGlobalSection
+EndGlobal
