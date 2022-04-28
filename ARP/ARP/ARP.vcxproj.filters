@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ARP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\bluetooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\bpf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\can_socketcan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\compiler-tests.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\dlt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\funcattrs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\ipnet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\namedb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\nflog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\pcap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\pcap-inttypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\sll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\socket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\usb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pcap\vlan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Packet.lib">
+      <Filter>Resource Files</Filter>
+    </Library>
+    <Library Include="wpcap.lib">
+      <Filter>Resource Files</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
