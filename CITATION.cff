@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: sr-ARP experiments
+message: Please referene this repository if used
+type: software
+authors:
+  - given-names: Johan
+    family-names: Thomsen
+    email: jthoms19@student.aau.dk
+  - given-names: Thomas
+    family-names: Ranum Damsgaard
+    email: tdamsg19@student.aau.dk
+  - given-names: Thor
+    family-names: Beregaard
+    email: tbereg19@student.aau.dk
+  - given-names: Malthe
+    family-names: Emtkjær
+    email: memtkj19@student.aau.dk
+repository-code: 'https://github.com/TrulyThomas/SR-ARP-Experiments'
+license: MIT
